@@ -14,6 +14,12 @@ python3 -m virtualenv henexa
 ```
 3. **Install requirements** `pip install -r requirements.txt`
 
+## Build and Deployment
+```
+cd app_name
+./build.sh
+```
+
 ## Questions?
 #### Contact
   - email [henao@henserver.com](http://www.henserver.com)
